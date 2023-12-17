@@ -7,5 +7,6 @@ huggingface_hub
 transformers
 accelerate
 bitsandbytes
+pandas
 
 -e .
